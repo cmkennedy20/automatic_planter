@@ -88,12 +88,13 @@ The bluetooth system is not necessary to actually implement and design the autom
 
 14.Adafruit Bluefruit LE UART Friend - Bluetooth Low Energy (BLE)
     
-    Link: https://www.ebay.com/i/263049861315?chn=ps&norover=1&mkevt=1&mkrid=711-213727-13078-0&mkcid=2&itemid=263049861315&targetid=4580153133025503&device=c&mktype=&googleloc=&poi=&campaignid=403206328&mkgroupid=1224856168411808&rlsatarget=pla-4580153133025503&abcId=9300372&merchantid=51291&msclkid=66d96b0e840c180ceb0434b0549e76cf
+   Link: https://www.ebay.com/i/263049861315?chn=ps&norover=1&mkevt=1&mkrid=711-213727-13078-0&mkcid=2&itemid=263049861315&targetid=4580153133025503&device=c&mktype=&googleloc=&poi=&campaignid=403206328&mkgroupid=1224856168411808&rlsatarget=pla-4580153133025503&abcId=9300372&merchantid=51291&msclkid=66d96b0e840c180ceb0434b0549e76cf
     
     
 -----Cost Chart-----
+
 Number	Unit	Cost
-1	Water Lvl Sensor	$4.99 
+1	Water Lvl Sensor $4.99 
 2	Water Valve	$13.61 
 3	2 Water bottles	$1.78 
 4	Raspberry Pi	$34.99 
