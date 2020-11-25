@@ -92,7 +92,6 @@ The bluetooth system is not necessary to actually implement and design the autom
     
     
 -----Cost Chart-----
-
 Unit	Cost
 Water Lvl Sensor	$4.99 
 Water Valve	$13.61 
