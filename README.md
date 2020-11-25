@@ -124,3 +124,8 @@ Bluetooth Module	$22.99
 
 Total	$288.24 
 
+
+---------Additional Notes---------
+
+---Servo/Faucet Mount---
+The two difficulties came from the motor mounting. I took a simple approach to solving this issue. I first went and purchased the supplies above. From there I then used the super glue to attach the u-hook to the frame of the water nozzle. Once this was mounted, I then attached the servo to the faucet using some wires. Once the servo was attached I then used more wires to secure the servo in to place on the u-hook so that the servo would not move. This enabled to servo to properly rotate the faucet 90 degrees so that the faucet would open and allow the water to properly flow. 
