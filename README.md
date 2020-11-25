@@ -93,19 +93,20 @@ The bluetooth system is not necessary to actually implement and design the autom
     
 -----Cost Chart-----
 
-Number	Unit	Cost
-1	Water Lvl Sensor $4.99 
-2	Water Valve	$13.61 
-3	2 Water bottles	$1.78 
-4	Raspberry Pi	$34.99 
-5	MBED LC1768	$54.95 
-6	Servo	$13.79 
-7	Grow Lamp	$69.99 
-8	Relay Switch	$26.95 
-9	Water Hose	$12.24 
-10	Flex Glue	$12.99 
-11	Super Glue	$5.17 
-12	U-Bolt	$12.00 
-13	Battery Pack	$1.80 
-14	Bluetooth Module	$22.99 
-	Total	$288.24 
+Unit	Cost
+Water Lvl Sensor	$4.99 
+Water Valve	$13.61 
+2 Water bottles	$1.78 
+Raspberry Pi	$34.99 
+MBED LC1768	$54.95 
+Servo	$13.79 
+Grow Lamp	$69.99 
+Relay Switch	$26.95 
+Water Hose	$12.24 
+Flex Glue	$12.99 
+Super Glue	$5.17 
+U-Bolt	$12.00 
+Battery Pack	$1.80 
+Bluetooth Module	$22.99 
+Total	$288.24 
+
