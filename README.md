@@ -85,8 +85,11 @@ The bluetooth system is not necessary to actually implement and design the autom
     Link: https://www.ebay.com/i/322567174838?chn=ps&norover=1&mkevt=1&mkrid=711-213727-13078-0&mkcid=2&itemid=322567174838&targetid=4580977766998737&device=c&mktype=&googleloc=&poi=&campaignid=403206332&mkgroupid=1238050308110012&rlsatarget=pla-4580977766998737&abcId=9300372&merchantid=51291&msclkid=9d402288c96e1c3928317d361aae81bf
     
 -----Optional Unit for testing only-----
+
 14.Adafruit Bluefruit LE UART Friend - Bluetooth Low Energy (BLE)
+    
     Link: https://www.ebay.com/i/263049861315?chn=ps&norover=1&mkevt=1&mkrid=711-213727-13078-0&mkcid=2&itemid=263049861315&targetid=4580153133025503&device=c&mktype=&googleloc=&poi=&campaignid=403206328&mkgroupid=1224856168411808&rlsatarget=pla-4580153133025503&abcId=9300372&merchantid=51291&msclkid=66d96b0e840c180ceb0434b0549e76cf
+    
     
 -----Cost Chart-----
 Number	Unit	Cost
