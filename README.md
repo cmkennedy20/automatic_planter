@@ -25,7 +25,7 @@ The timer system is intergal in automating the watering and lighting processes. 
 
 ----Email System----
 
-The email system will tie in with the watering system. The email system is set up on a Raspberry Pi and it uses some basic functions that are a part of node red. I configured the mBed to constantly read the water level sensor. If the sensor alerts the mBed that the water has passed the threshold, then the mBed sends a signal out on one of it's pins. The mBed output is tied in to the input into the Pi. The Pi's node red program will be set up to send an email to an email address whenever one of its input pins goes high.
+The email system will tie in with the watering system. The email system is set up on a Raspberry Pi and it uses some basic functions that are a part of node red. I configured the mBed to constantly read the water level sensor. If the sensor alerts the mBed that the water has passed the threshold, then the mBed sends a signal out through it's serial connection. The mBed output read in to the Pi using the serial connection  on the node=red program. The Pi's node red program will be set up to send an email to an email address whenever one of its input pins goes high.
 
 ----Bluetooth System----
 
