@@ -1,7 +1,9 @@
 # automatic_planter
+Author: Christopher Kennedy
+
 Project for ECE4180 which involves creating an automated watering system 
 
-The goal for this project is to remove the need to water indoor plants and move them to provide them with lighting. 
+The goal for this project is to remove the need to water indoor plants and move them to provide them with lighting. The parts below and concept came to be after many external factors gave me the idea of buying an indoor grow lamp to help grow peppers throughout the year. This device will allow the user to create a system that helps provide indoor plants with the essentials(light and water). It can allow people to travel and leave their plants for extended periods of time knowing that they will not die in their absence.
 
 The project can be broken down into 5 different sub-systems.
   1. Watering System
