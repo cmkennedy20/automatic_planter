@@ -16,7 +16,7 @@ In the sections below I will elaborate on the functionality of the different sys
 ----Watering System----
 
 The water system is controlled by an mBed and a servo motor that is attached to a valve that anyone can purchase from a home goods store. The valve is attached to a hose and a large container of water. The watering system has an ardunio water level sensor that it uses to determine how much water is remaining inside of the container.
-![](pictures/Motor%20Mount.png)
+![](pictures/Mounted_sensor.png)
 
 ----Lighting System----
 
@@ -29,6 +29,7 @@ The timer system is intergal in automating the watering and lighting processes. 
 ----Email System----
 
 The email system will tie in with the watering system. The email system is set up on a Raspberry Pi and it uses some basic functions that are a part of node red. I configured the mBed to constantly read the water level sensor. If the sensor alerts the mBed that the water has passed the threshold, then the mBed sends a signal out through it's serial connection. The mBed output read in to the Pi using the serial connection  on the node=red program. The Pi's node red program will be set up to send an email to an email address whenever one of its input pins goes high.
+![](pictures/Node-Red%20Flow.PNG)
 
 ----Bluetooth System----
 
@@ -132,3 +133,6 @@ Total	$288.24
 
 ---Servo/Faucet Mount---
 The two difficulties came from the motor mounting. I took a simple approach to solving this issue. I first went and purchased the supplies above. From there I then used the super glue to attach the u-hook to the frame of the water nozzle. Once this was mounted, I then attached the servo to the faucet using some wires. Once the servo was attached I then used more wires to secure the servo in to place on the u-hook so that the servo would not move. This enabled to servo to properly rotate the faucet 90 degrees so that the faucet would open and allow the water to properly flow. 
+
+![](pictures/Motor%20Mount.png)
+
