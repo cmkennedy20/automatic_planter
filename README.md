@@ -11,8 +11,9 @@ The project can be broken down into 5 different sub-systems.
   3. Timer System
   4. Email System
   5. Bluetooth System --Optional
+  
 In the sections below I will elaborate on the functionality of the different systems.
-
+![](pictures/Final%20Schematic.PNG)
 ----Watering System----
 
 The water system is controlled by an mBed and a servo motor that is attached to a valve that anyone can purchase from a home goods store. The valve is attached to a hose and a large container of water. The watering system has an ardunio water level sensor that it uses to determine how much water is remaining inside of the container.
