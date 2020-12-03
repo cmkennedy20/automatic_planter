@@ -16,6 +16,7 @@ In the sections below I will elaborate on the functionality of the different sys
 ----Watering System----
 
 The water system is controlled by an mBed and a servo motor that is attached to a valve that anyone can purchase from a home goods store. The valve is attached to a hose and a large container of water. The watering system has an ardunio water level sensor that it uses to determine how much water is remaining inside of the container.
+![](pictures/Motor%20Mount.png)
 
 ----Lighting System----
 
